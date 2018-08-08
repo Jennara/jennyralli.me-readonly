@@ -80,7 +80,7 @@ input, select, textarea {
 
 	*, *:before, *:after {
 		box-sizing: inherit;
-	}
+	} 
 
 	body {
 		background: #fff;
@@ -1756,6 +1756,7 @@ input, select, textarea {
 
 	section.special, article.special {
 		text-align: center;
+		
 	}
 
 	header p {
@@ -2631,6 +2632,7 @@ input, select, textarea {
 		border-top: solid 3px #f4f4f4;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
+	
 	}
 
 		.features article:first-child {
@@ -2647,7 +2649,7 @@ input, select, textarea {
 
 			.features article .image img {
 				display: block;
-				width: 100%;
+				width: 50%;
 			}
 
 		.features article .inner {
